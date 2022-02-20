@@ -10,11 +10,13 @@ Classification is done using Support vector machines (SVM)
 We first extract the positive and negative image patch samples from the dataset. The function `extract_samples` does this.
 Next we train the SVM with the given input samples.
 Run the below command to train the model. 
-`python3 train.py`
+
+```python3 train.py```
 
 ## Testing:
 Run the below command to test the model that we trained. 
-`python3 train.py`
+
+```python3 test.py```
 
 ## Detection:
 To detect the center of the mobile phone:
@@ -23,7 +25,9 @@ To detect the center of the mobile phone:
 - retrieve the windows predicted to contain the object along with confidence scores.
 - Sort the bounding-box based on confidence scores, and select the top k boxes. Also, ensure the confidence >70% (k=5 here)
 - The predicted centroid is  the centroid the top k boxes.
+Run Detector to test run first 20 images (test images) in from the label list
 
+```python3 detector.py ```
 
 ### Future Improvements: 
 [TODO]: Tune window size. Right now it is a rigid square.
