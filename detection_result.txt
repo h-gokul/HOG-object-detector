@@ -1,0 +1,203 @@
+0it [00:00, ?it/s]############# Image 51.jpg #############
+scale: 1.0
+4984it [00:02, 2111.38it/s]
+scale: 1.2502, 2105.98it/s]
+5640it [00:02, 2098.68it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 63.344181537628174 
+
+ Correct prediction
+1it [01:03, 63.35s/it]############# Image 95.jpg #############
+scale: 1.0
+4984it [00:02, 2237.07it/s]
+scale: 1.2502, 2241.32it/s]
+5640it [00:02, 2225.54it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 62.72119641304016 
+
+ Correct prediction
+2it [02:06, 62.99s/it]############# Image 84.jpg #############
+scale: 1.0
+4984it [00:02, 2232.81it/s]
+scale: 1.2502, 2236.45it/s]
+5640it [00:02, 2214.34it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 64.69613218307495 
+
+ Correct prediction
+3it [03:10, 63.77s/it]############# Image 118.jpg #############
+scale: 1.0
+4984it [00:02, 2235.01it/s]
+scale: 1.2502, 2245.41it/s]
+5640it [00:02, 2217.38it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 64.15949988365173 
+
+ Correct prediction
+4it [04:14, 63.93s/it]############# Image 115.jpg #############
+scale: 1.0
+4984it [00:02, 2228.29it/s]
+scale: 1.2502, 2238.76it/s]
+5640it [00:02, 2205.32it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 62.871705770492554 
+
+ Correct prediction
+5it [05:17, 63.56s/it]############# Image 33.jpg #############
+scale: 1.0
+4984it [00:02, 2222.33it/s]
+scale: 1.2502, 2243.06it/s]
+5640it [00:02, 2225.69it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 62.534579277038574 
+
+ Correct prediction
+6it [06:20, 63.21s/it]############# Image 58.jpg #############
+scale: 1.0
+4984it [00:02, 2235.02it/s]
+scale: 1.2502, 2246.22it/s]
+5640it [00:02, 2232.76it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 62.02563238143921 
+
+ Correct prediction
+7it [07:22, 62.83s/it]############# Image 119.jpg #############
+scale: 1.0
+4984it [00:02, 2250.80it/s]
+scale: 1.2502, 2250.69it/s]
+5640it [00:02, 2230.46it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 64.88127946853638 
+
+ Correct prediction
+8it [08:27, 63.49s/it]############# Image 38.jpg #############
+scale: 1.0
+4984it [00:02, 2232.06it/s]
+scale: 1.2502, 2230.64it/s]
+5640it [00:02, 2205.78it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 68.07044172286987 
+
+ Correct prediction
+9it [09:35, 64.93s/it]############# Image 8.jpg #############
+scale: 1.0
+4984it [00:02, 2201.24it/s]
+scale: 1.2502, 2186.07it/s]
+5640it [00:02, 2180.90it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 67.322256565094 
+
+ Correct prediction
+10it [10:42, 65.67s/it]############# Image 47.jpg #############
+scale: 1.0
+4984it [00:02, 2196.73it/s]
+scale: 1.2502, 2198.11it/s]
+5640it [00:02, 2155.18it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 70.50385046005249 
+
+ Correct prediction
+11it [11:53, 67.15s/it]############# Image 131.jpg #############
+scale: 1.0
+4984it [00:02, 1888.30it/s]
+scale: 1.2502, 1815.74it/s]
+5640it [00:02, 2084.23it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 71.16983437538147 
+
+ Correct prediction
+12it [13:04, 68.38s/it]############# Image 48.jpg #############
+scale: 1.0
+4984it [00:02, 2210.56it/s]
+scale: 1.2502, 2175.99it/s]
+5640it [00:02, 2183.05it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 71.54556012153625 
+
+Wrong prediction
+13it [14:16, 69.34s/it]############# Image 130.jpg #############
+scale: 1.0
+4984it [00:02, 2117.34it/s]
+scale: 1.2502, 2073.10it/s]
+5640it [00:02, 2143.58it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 74.41199278831482 
+
+ Correct prediction
+14it [15:30, 70.88s/it]############# Image 93.jpg #############
+scale: 1.0
+4984it [00:02, 1790.19it/s]
+scale: 1.2502, 1488.61it/s]
+5640it [00:03, 1779.54it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 72.14199209213257 
+
+ Correct prediction
+15it [16:42, 71.27s/it]############# Image 50.jpg #############
+scale: 1.0
+4984it [00:02, 2081.63it/s]
+scale: 1.2502, 1966.70it/s]
+5640it [00:02, 2058.86it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 74.12286829948425 
+
+ Correct prediction
+16it [17:56, 72.13s/it]############# Image 112.jpg #############
+scale: 1.0
+4984it [00:02, 2108.78it/s]
+scale: 1.2502, 2020.58it/s]
+5640it [00:02, 2079.25it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 72.88513779640198 
+
+ Correct prediction
+17it [19:09, 72.36s/it]############# Image 121.jpg #############
+scale: 1.0
+4984it [00:03, 1435.82it/s]
+scale: 1.2503, 1513.33it/s]
+5640it [00:03, 1596.28it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 74.14010500907898 
+
+ Correct prediction
+18it [20:23, 72.90s/it]############# Image 97.jpg #############
+scale: 1.0
+4984it [00:02, 2170.13it/s]
+scale: 1.2502, 2172.50it/s]
+5640it [00:02, 2053.15it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 81.21013307571411 
+
+ Correct prediction
+19it [21:45, 75.40s/it]############# Image 120.jpg #############
+scale: 1.0
+4984it [00:02, 1879.62it/s]
+scale: 1.2502, 1710.33it/s]
+5640it [00:03, 1855.67it/s]
+total number of boxes: 10624
+Predicting With SVM
+ Total time for detection: 68.41189336776733 
+
+ Correct prediction
+20it [22:53, 68.67s/it]
+
+Accuracy = 0.95,  19/20
